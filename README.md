@@ -1,3 +1,10 @@
+
+    npm install vue@2.7
+
+    vue create chart-app
+
+    npm install vue-chartjs chart.js
+
 # chart-app
 
 ## Project setup
